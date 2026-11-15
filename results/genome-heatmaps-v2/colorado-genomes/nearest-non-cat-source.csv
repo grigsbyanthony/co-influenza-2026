@@ -1,10 +1,9 @@
 label,case_label,cluster,source_host,source_snps,source_label
-A/cat/CO/25-009632-001-original/2025,25-009632,C,Wild bird,32,A/Canada Goose/CO/25-005220-001-original/2025
-A/cat/CO/25-009632-004-original/2025,25-009632,C,Wild bird,30,A/Canada Goose/CO/25-005220-001-original/2025
-A/cat/CO/25-012358-001-original/2025,25-012358,C,Wild bird,22,A/Red-tailed Hawk/CO/25-003477-001-original/2025
-A/cat/OH/25-010610-001-original/2025,25-010610,C,Wild bird,32,A/Great Horned Owl/CO/25-002313-001-original/2025
-A/cat/CO/25-006047-001-original/2025,25-006047,C,Wild bird,15,A/Turkey Vulture/CO/25-013659-001-original/2025
-A/cat/CO/25-005222-001-original-repeat2/2025,25-005222,C,Wild bird,22,A/Snow Goose/CO/24-038748-001-original/2024
+A/cat/CO/25-009632-001-original/2025,Case 13,C,Wild bird,32,A/Canada Goose/CO/25-005220-001-original/2025
+A/cat/CO/25-009632-004-original/2025,Case 12,C,Wild bird,30,A/Canada Goose/CO/25-005220-001-original/2025
+A/cat/CO/25-012358-001-original/2025,Case 16,C,Wild bird,22,A/Red-tailed Hawk/CO/25-003477-001-original/2025
+A/cat/CO/25-006047-001-original/2025,Case 11,C,Wild bird,15,A/Turkey Vulture/CO/25-013659-001-original/2025
+A/cat/CO/25-005222-001-original-repeat2/2025,Case 10,C,Wild bird,22,A/Snow Goose/CO/24-038748-001-original/2024
 A/cat/CO/25-003476-002-original-repeat2/2025,Case 9,B,Pet food chicken,5,A/PetFood/CO/25-003807-021-original/2025
 A/cat/CO/25-003476-003-original/2025,Case 9,B,Pet food chicken,5,A/PetFood/CO/25-003807-021-original/2025
 A/cat/CO/24-016313-001-original/2024,Case 1,A,Domestic cattle,1,A/cattle/CO/24-017811-003-original/2024
